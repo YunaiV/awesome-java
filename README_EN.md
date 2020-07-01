@@ -1,12 +1,6 @@
-# Awesome Java
+# Awesome Java [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![](http://static.iocoder.cn/awesome-java-logo.png)
-
-一份精选的 Java 框架、库和软件列表。
-
-基于 [awesome-java](https://github.com/akullpp/awesome-java) 翻译与优化，并搭配相应的教程。
-
-*注意，内容按照 A-Z 字幕顺序排序*。
+A curated list of awesome Java frameworks, libraries and software.
 
 ## Contents
 
